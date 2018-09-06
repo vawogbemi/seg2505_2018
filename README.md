@@ -1,4 +1,4 @@
-# SEG 2505 Automne 2017
+# SEG 2505 Automne 2018
 
 Git repo pour les laboratoires.
 
