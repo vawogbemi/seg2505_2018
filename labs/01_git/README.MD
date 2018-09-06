@@ -13,7 +13,7 @@
 ## Démarche
 1. Créez votre répertoire de projet.
 2. Tapez `git init`
-3. Clonez le répertoire (repo) `https://github.com/cedric-c/seg2505_2018/`
+3. Clonez le répertoire (repo) `https://github.com/mgarzon/seg2505_2018/`
 4. Modifiez un fichier `PersonInfoN` pour qu'il contienne vos informations
 5. Ajoutez le document à l'état "staging" (`git add`)
 6. Faites un commit dans votre branche **master**
