@@ -12,20 +12,19 @@
 
 ## Démarche
 1. Créez votre répertoire de projet.
-2. Tapez `git init`
-3. Clonez le répertoire (repo) `https://github.com/mgarzon/seg2505_2018/`
-4. Modifiez un fichier `PersonInfoN` pour qu'il contienne vos informations
-5. Ajoutez le document à l'état "staging" (`git add`)
-6. Faites un commit dans votre branche **master**
-7. Créez une nouvelle branche avec `git checkout -b newBranch`
-8. Modifiez votre fichier `PersonInfoN`
-9. Ajoutez le document à l'état "staging" (`git add`)
-10. Faites un commit dans votre branche **newBranch**
-11. Changez à votre branche **master**
-12. Modifiez votre fichier `PersonInfoN`, ajoutez d'autres informations à votre description
-13. Ajoutez le document à l'état "staging" (`git add`)
-14. Faites un commit
-15. Dans la branche **master**, faites un `get merge newBranch`
+2. Clonez le répertoire (repo) `https://github.com/mgarzon/seg2505_2018/`
+3. Modifiez un fichier `PersonInfoN` pour qu'il contienne vos informations
+4. Ajoutez le document à l'état "staging" (`git add`)
+5. Faites un commit dans votre branche **master**
+6. Créez une nouvelle branche avec `git checkout -b newBranch`
+7. Modifiez votre fichier `PersonInfoN`
+8. Ajoutez le document à l'état "staging" (`git add`)
+9. Faites un commit dans votre branche **newBranch**
+10. Changez à votre branche **master**
+11. Modifiez votre fichier `PersonInfoN`, ajoutez d'autres informations à votre description
+12. Ajoutez le document à l'état "staging" (`git add`)
+13. Faites un commit
+14. Dans la branche **master**, faites un `get merge newBranch`
 
 Que voyez-vous?
 
