@@ -11,7 +11,6 @@ public class PersonInfo3 {
         out += SIConstants.STUDENT_NUMBER_FR + studentNo + '.';
         out += SIConstants.DESCRIPTION_FR + description + '.';
         out += SIConstants.EOL;
-        
         System.out.println(out);
     }
 
@@ -22,7 +21,6 @@ public class PersonInfo3 {
         out += SIConstants.STUDENT_NUMBER_EN + studentNo + '.';
         out += SIConstants.DESCRIPTION_EN + description + '.';
         out += SIConstants.EOL;
-        
         System.out.println(out);
     }
 }
